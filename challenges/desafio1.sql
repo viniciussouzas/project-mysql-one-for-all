@@ -136,3 +136,5 @@ VALUES
   (7,6),
   (9,3),
   (10,2);
+
+  USE SpotifyClone;
